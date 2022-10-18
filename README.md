@@ -1,1 +1,1 @@
-# Sign-Language-Recoginition-
+# Sign Language Recoginition
