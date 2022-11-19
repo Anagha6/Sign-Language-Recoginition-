@@ -1,9 +1,13 @@
 # Sign Language Recoginition System
 
 ## CONTENTS
+
 1 . Introduction
+
 2.  Problem Statement
+
 3.  Data Description
+
 4.  Toolkit
 
 ## INTRODUCTION
@@ -14,6 +18,7 @@ communication  is  sign  language.
 Developing sign language application for deaf people can be very important,
 as they’ll be able to communicate easily with even those who don’t understand
 sign language.
+
 Dumb people use hand signs to communicate, hence normal people face problem in recognizing their language by signs made. Hence there is a need of the systems which recognizes the different signs and conveys the information to the normal people.
 In this presentation, we will be demonstrating a Computer Vision demo using YOLOv5 on the American Sign Language Dataset including 26 classes.
 
@@ -24,7 +29,9 @@ language through image processing and computer vision.
 
 ## **DATA DESCRIPTION**
 For this, We have used American Sign Language dataset that was collected from the gituhub. The dataset consists of 3399 images having 26 American Sign language alphabets. This dataset was used because of the availability of annotations which were required for training our model.The images for the training and testing sets are in train  and test files respectively, and additional information about each image is in labels.
+
 Link for the dataset:
+
        American Sign Language : https://universe.roboflow.com/sign-language/american-language/dataset/1
        
 ## **TOOLKIT**
@@ -32,7 +39,8 @@ Link for the dataset:
 
 YOLOv5 architecture:
 
-alt text
+![image](https://user-images.githubusercontent.com/98939596/202833163-8352fe2c-13c2-4be1-8067-4a9a27faad15.png)
+
              
      
 
