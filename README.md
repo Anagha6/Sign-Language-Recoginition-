@@ -1,7 +1,7 @@
 # **Sign Language Recoginition System**
 
 ## **CONTENTS**
-1 . Introduction
+  1 . Introduction
 
 2.  Problem Statement
 
@@ -11,11 +11,11 @@
 
 5. Installation
 
-6. TRAINING AND EVALUATION
+6. Training and Evaluation
 
-7. FURTHER MODIFICATION
+7. Further modification
 
-8 . UI Development
+  8 . UI Development
 
 
 ## **INTRODUCTION**
@@ -72,7 +72,8 @@ pip install -r requirements.txt  # install
 
 ## **FURTHER MODIFICATIONS**
 
-We can also try another model like CNN for real time sign language detection
+We can also try another model like CNN for real time sign language detection.
+
 
 ## **UI DEVELOPMENT**
 
@@ -80,7 +81,7 @@ We can also try another model like CNN for real time sign language detection
 
 ## **AUTHOR**
 
-Name : ANAGHA ASHOK
+Name : Anagha Ashok
 
 
 
