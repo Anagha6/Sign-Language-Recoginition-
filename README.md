@@ -3,9 +3,9 @@
 ## **CONTENTS**
 1. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#introduction">Introduction</a>
 
-2.<a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#problem-statement">Problem Statement</a>
+2. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#problem-statement">Problem Statement</a>
 
-3. Data Description
+3. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#data-description">Data Description</a>
 
 4. Toolkit
 
