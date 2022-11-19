@@ -13,7 +13,7 @@
 
 6. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#training-and-evaluation">Training and Evaluation</a>
 
-7. Further modification
+7. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#further-modifications">Further modification</a>
 
 8. UI Development
 
