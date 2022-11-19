@@ -96,14 +96,14 @@ Sign language recognition techniques have many proven advantages compared
 with traditional devices. However, Hand gesture recognition is a difficult
 problem and the current work is only a small contribution towards achieving
 the results needed in the field of sign language gesture recognition. This report
-presented a vision­based system able to interpret isolated hand gestures from
+presented a vision based system able to interpret isolated hand gestures from
 the  American Sign  Language(ASL).
 We obtained an
 accuracy of 97%.
 
 We can extend our work further in recognising continuous sign language
 gestures with better accuracy. This method for individual gestures can also be
-extended for sentence level sign language. We can also try uploading our own video dataset like images.Also, we can  use two
+extended for sentence level sign language. We can also try uploading our own video dataset .Also, we can  use two
 different models, training inception (CNN) followed by training RNN. For
 future  work  one  can  focus  on  combining  the  two  models  into  a  single  model.
 
