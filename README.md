@@ -1,7 +1,7 @@
 # **Sign Language Recoginition System**
 
 ## **CONTENTS**
-1. Introduction
+1. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#introduction">Introduction</a>
 
 2. Problem Statement
 
