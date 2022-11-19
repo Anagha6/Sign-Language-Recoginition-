@@ -1,13 +1,13 @@
 # **Sign Language Recoginition System**
 
 ## **CONTENTS**
-  1 . Introduction
+1. Introduction
 
-2.  Problem Statement
+2. Problem Statement
 
-3.  Data Description
+3. Data Description
 
-4.  Toolkit
+4. Toolkit
 
 5. Installation
 
@@ -15,7 +15,9 @@
 
 7. Further modification
 
-  8 . UI Development
+8. UI Development
+
+9. CONCLUSION AND FUTUREWORK 
 
 
 ## **INTRODUCTION**
@@ -73,19 +75,26 @@ install the required python packages using:
 
 ## **FURTHER MODIFICATIONS**
 
-We can also try another model like CNN for real time sign language detection.
+We can also try another model like CNN and RNN for real time sign language detection.
 
 
 ## **UI DEVELOPMENT**
 
-Run
+**Run**
 
 Clone the repo in virtual environment and open the website using the following command:
 
  **streamlit run app.py**
 
 
+
 ![Screenshot (43)](https://user-images.githubusercontent.com/98939596/202833714-f56397cf-0909-48e7-8ad2-5d881534506f.png)
+
+## **CONCLUSION AND FUTUREWORK**
+
+
+
+
 
 ## **AUTHOR**
 
