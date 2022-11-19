@@ -11,7 +11,7 @@
 
 5. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#installation">Installation</a>
 
-6. Training and Evaluation
+6. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#training-and-evaluation">Training and Evaluation</a>
 
 7. Further modification
 
