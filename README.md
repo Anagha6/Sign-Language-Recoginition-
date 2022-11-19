@@ -9,7 +9,7 @@
 
 4. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#toolkit">Toolkit</a>
 
-5. Installation
+5. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#installation">Installation</a>
 
 6. Training and Evaluation
 
