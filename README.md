@@ -3,7 +3,7 @@
 ## **CONTENTS**
 1. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#introduction">Introduction</a>
 
-2. Problem Statement
+2.<a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#problem-statement">Problem Statement</a>
 
 3. Data Description
 
@@ -17,7 +17,7 @@
 
 8. UI Development
 
-9. CONCLUSION AND FUTUREWORK 
+9. Conclusion and Futurework 
 
 
 ## **INTRODUCTION**
