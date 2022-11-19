@@ -22,10 +22,9 @@ language through image processing and computer vision.
 ## **DATA DESCRIPTION**
 For this, We have used American Sign Language dataset that was collected from the gituhub. The dataset consists of 3399 images having 26 American Sign language alphabets. This dataset was used because of the availability of annotations which were required for training our model.The images for the training and testing sets are in train  and test files respectively, and additional information about each image is in labels.
     
-     Markup : * American Sign Language
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 
+      * American Sign Language
+             
+     
 
 
 
