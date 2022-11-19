@@ -77,6 +77,12 @@ We can also try another model like CNN for real time sign language detection.
 
 ## **UI DEVELOPMENT**
 
+Run
+
+Clone the repo in virtual environment and open the website using the following command:
+
+streamlit run app.py
+
 ![Screenshot (43)](https://user-images.githubusercontent.com/98939596/202833714-f56397cf-0909-48e7-8ad2-5d881534506f.png)
 
 ## **AUTHOR**
