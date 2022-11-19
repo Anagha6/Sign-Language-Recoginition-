@@ -1,8 +1,8 @@
-# Sign Language Recoginition System
+# **Sign Language Recoginition System**
 
-## CONTENTS
+## **CONTENTS**
 
-1 . Introduction
+ 1 . Introduction
 
 2.  Problem Statement
 
@@ -10,7 +10,9 @@
 
 4.  Toolkit
 
-## INTRODUCTION
+5. Installation
+
+## **INTRODUCTION**
 Inability to speak is considered to be true disability. People with this disability
 use different modes to communicate with others, there are number of methods
 available for their communication one such common method of
@@ -41,6 +43,15 @@ YOLOv5 architecture:
 
 ![image](https://user-images.githubusercontent.com/98939596/202833163-8352fe2c-13c2-4be1-8067-4a9a27faad15.png)
 
+The model identifies signs in real time as well as with input image or audio and builds bounding boxes showing label with confidence value.The model is showcased using streamlit which can take input as an image.
+
+## **INSTALLATION**
+
+Clone repo and install requirements.txt in a Python>=3.7.0 environment, including PyTorch>=1.7.
+
+git clone https://github.com/snarkyidiot/IITI_soc_ML.git  # clone
+cd yolov5
+pip install -r requirements.txt  # install
              
      
 
