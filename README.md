@@ -15,7 +15,7 @@
 
 7. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#further-modifications">Further modification</a>
 
-8. UI Development
+8. <a href="https://github.com/Anagha6/Sign-Language-Recoginition-/blob/main/README.md#ui-development">UI Development</a>
 
 9. Conclusion and Futurework 
 
