@@ -62,11 +62,12 @@ Clone repo and install requirements.txt in a Python>=3.7.0 environment, includin
 To run this code in your local system you have to download this repository using :
 
 git clone https://github.com/Anagha6/Sign-Language-Recoginition-.git  # clone
+
 cd yolov5
 
 install the required python packages using:
 
-pip install -r requirements.txt  # install
+%pip install -qr requirements.txt  # install
 
 ## **TRAINING AND EVALUATION**
 
@@ -81,7 +82,8 @@ Run
 
 Clone the repo in virtual environment and open the website using the following command:
 
-streamlit run app.py
+ streamlit run app.py
+
 
 ![Screenshot (43)](https://user-images.githubusercontent.com/98939596/202833714-f56397cf-0909-48e7-8ad2-5d881534506f.png)
 
