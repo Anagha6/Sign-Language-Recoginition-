@@ -74,6 +74,8 @@ install the required python packages using:
 ## **TRAINING AND EVALUATION**
 I have used google colab for training this YOLOv5 model.
 
+Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz 1.19 GHz;RAM:12.0 GB
+
 ## **FURTHER MODIFICATIONS**
 
 We can also try another model like CNN and RNN for real time sign language detection.
