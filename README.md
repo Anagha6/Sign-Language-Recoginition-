@@ -72,6 +72,7 @@ install the required python packages using:
 **%pip install -qr requirements.txt**  # install
 
 ## **TRAINING AND EVALUATION**
+I have used google colab for training this YOLOv5 model.
 
 ## **FURTHER MODIFICATIONS**
 
